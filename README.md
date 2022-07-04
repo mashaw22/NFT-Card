@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/mashaw22/NFT-Card](https://github.com/mashaw22/NFT-Card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [fm-nft-card.netlify.app](fm-nft-card.netlify.app)
 
 ## My process
 
