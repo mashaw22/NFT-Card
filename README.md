@@ -26,8 +26,7 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-
-[]('./images/full-card.png')
+![NFT Card Site](./images/full-card.png)
 
 
 ### Links
