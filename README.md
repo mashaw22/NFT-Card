@@ -70,7 +70,7 @@ When hovering over the NFT image, the background color isn't the same cyan as in
 ### Useful resources
 
 - [W3 Schools: How to - Image Hover Overlay](https://www.w3schools.com/howto/howto_css_image_overlay.asp) - This helped me use an ease transition for the hover effect.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [W3 Schools: CSS background-image Property](https://www.w3schools.com/cssref/pr_background-image.asp) - This article helped me to remember how to use an image as a background in CSS instead of placing it in the HTML.
 
 
 ## Author
